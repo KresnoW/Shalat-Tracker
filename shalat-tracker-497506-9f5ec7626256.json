@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "shalat-tracker-497506",
+  "private_key_id": "9f5ec76262566f214a0d5e45e429bd125066545e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDE8VH4cmb4bEvE\nDmg5JVCtZxJ3v4x6Qt1y/9nQK/nTJLCUKDPCNNppTYitdIHvP6A9fYhDCQpY/zkG\nCmKxbat4D438n4XfbWPh1BKVIAWFjcB4CltA2hKm3fqrJ5xoUNk3CB+gYZ4GJ0JJ\naggfu003Y060zMTkm2EQ06sMfJf2ejDbgkjhQmwDrJIV6tNwMQTSKYDpPyQFA58a\n3AC2jAVgAD5qrbPE72s5PYQojRGSV3iFT/mRRcvRRw67H2kv0izSzB2crh4EDvYL\nl4QN8ODhjCTUHeStO8iwsIbZgjT46zaW+g5SPnDv8jLLidrAnXAsJkd1pRxIU2PK\nDz/CNMAZAgMBAAECggEAAPDKHG6ncT5LKleLReKYvQtF+k5u5FKXbiospyLeoZSG\nR17dyGqqNGCLa5Cn4jWilUiZMwDDDOPDKPU5vXExpXQlkHROll+WX4i8wfuSKy4f\nIjOide/UsPlUbibVR2ZDc1DVndV5hLwBRAp+mXAykTYnNRPZSOI5F3R7V6bsrt+q\nYL9skZjoEGD2T/0aWCt2fZ0wy8wkeRWuwivS1lzX/ba59lugHl/3Tmj4qcW4nY7q\n+hX878qBgC1ptbWd5sZILSuuHVbiXTRbVe9Vow+KxnvmJTrz7D0ljHf7Bf9dOcZC\nfPnnqijaxJx7CJmIztFtfvZTTN9h37BKnbzTNCv8lQKBgQDng3hv//VqXKI+Vowr\nT5ImevErkMl68F1ESw4kkG4lLh9m5c0Mq/Byk3TRR7GTu5ItR0kcSsfK3sQI8jGg\n7BajQXIfyTVsMFMyOwGQDgFluOuZzbg9f4IsPAbTcTVCEnqEUGKSC+D7FCulcxiC\n2fNdDB9knyo7nn1AeApCKUr5XwKBgQDZxcw/GVi75f8hFBc6TpSDfevvHnCILeCN\no/rWRXUZzyT95BcPyZdcH2w3lh1sb0e4BM2X728LBWTaVigrui1DrUbyXA9t3pgn\nW+WjhexX99HrbjBdaV/RHYiVKdLmhLbR+wYxy0G2F0dAZeHhBLvPvTVKjE+8nkA2\n7Q7abjohhwKBgBCsd1AZryMp6MV0lkPIR05eLGBm3Rvtk8oHXc1kWYpz9+8BPfNb\nrsWRuSgZccCiEbURHULcX+dMg/Hg/5IHbtnzLLT9WMuh71v+w+4MFC2vU8iP+GT1\nefqVmChCTwOjMQ+2emLqWBm9KieQUoOaDtz0so4cqH4CvCKYgqShNLUhAoGAa3Sw\nbcpCAKVimJ3jQEAaBDAURS9N88Q/c2Sgly46s/uEk0sDHiUo7KoMqfkGl8TpLKIi\nGIBq2JNWym2M8NazExvjUB+g9WPKzFEKJQAmONnt2S/L6avfPb5G8ONsT5bY5w/o\nZJWY3RLrc5lSNcgyLDV+oERP7BBiOzgKBjoxsO0CgYBtFNGMrNnCSEwMkneYdZyo\n8Evau8uReDklIo80aIOXFoHE2/RLUbvZ274MDFyzKEU/RUdVyySiqTdOm4n/4DE3\n1gszqcZ9E23FdivKePWbn1ZkyeXhTegZk+nggDyYL5nX4DB6UIQyFaRRY0V5tAN+\nJWG9bpS1q1PZ3fmm6vTe8w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "telegram-prayer-bot@shalat-tracker-497506.iam.gserviceaccount.com",
+  "client_id": "118031859693685822261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/telegram-prayer-bot%40shalat-tracker-497506.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
